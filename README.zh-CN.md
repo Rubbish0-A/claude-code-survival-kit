@@ -3,6 +3,10 @@
   <b>中文</b>
 </p>
 
+<p align="center">
+  <img src="./assets/cover.png" alt="claude-code-survival-kit — 3 个自动触发的 Claude Code skill，成本与漂移防范" width="100%">
+</p>
+
 # claude-code-survival-kit
 
 > **没装这三个，别急着上线。**

@@ -3,6 +3,10 @@
   <a href="./README.zh-CN.md">中文</a>
 </p>
 
+<p align="center">
+  <img src="./assets/cover.png" alt="claude-code-survival-kit — 3 auto-triggering Claude Code skills for cost and drift prevention" width="100%">
+</p>
+
 # claude-code-survival-kit
 
 > **Don't go into production without these.**
