@@ -1,3 +1,8 @@
+<p align="right">
+  <b>English</b> ·
+  <a href="./README.zh-CN.md">中文</a>
+</p>
+
 # claude-code-survival-kit
 
 > **Don't go into production without these.**
