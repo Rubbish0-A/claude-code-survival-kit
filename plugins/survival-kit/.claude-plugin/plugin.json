@@ -1,0 +1,19 @@
+{
+  "name": "survival-kit",
+  "version": "1.0.0",
+  "description": "Three flagship skills extracted from 6 months of real Claude Code usage: subagent dispatch matrix, plan mode three-layer review, and context cost accumulation model. Don't go into production without these.",
+  "author": {
+    "name": "Rubbish0-A"
+  },
+  "homepage": "https://github.com/Rubbish0-A/claude-code-survival-kit",
+  "repository": "https://github.com/Rubbish0-A/claude-code-survival-kit",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "cost-optimization",
+    "sub-agents",
+    "plan-mode",
+    "token-budget",
+    "cache-ttl"
+  ]
+}

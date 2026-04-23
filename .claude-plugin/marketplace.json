@@ -1,0 +1,34 @@
+{
+  "name": "claude-code-survival-kit",
+  "owner": {
+    "name": "Rubbish0-A"
+  },
+  "metadata": {
+    "description": "Don't go into production without these - methodologies to stop burning Claude Code tokens, drifting in long sessions, and blowing up sub-agent costs. Extracted from 6 months of practitioner notes."
+  },
+  "plugins": [
+    {
+      "name": "survival-kit",
+      "source": "./plugins/survival-kit",
+      "description": "Three flagship skills that auto-trigger to prevent cost blowups and planning drift: subagent-matrix (model x effort cost guardrails with tripwire escalation), plan-mode-review (three-layer input review with P0/P1/P2 tagging), context-cost-guard (4-source token accumulation model plus cache TTL mechanics).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rubbish0-A"
+      },
+      "homepage": "https://github.com/Rubbish0-A/claude-code-survival-kit",
+      "repository": "https://github.com/Rubbish0-A/claude-code-survival-kit",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "cost-optimization",
+        "token-budget",
+        "sub-agents",
+        "plan-mode",
+        "cache-ttl",
+        "methodology",
+        "practitioner-notes",
+        "survival-kit"
+      ]
+    }
+  ]
+}
